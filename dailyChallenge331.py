@@ -163,34 +163,37 @@ def exponent(num1, num2):
         return answer
 
 
-print("12 + 25 = " + str(add(12, 25)))
-print("-30 + 100 = " + str(add(-30, 100)))
 
-print("100 - 30 = " + str(subtract(100, 30)))
-print("100 - -30 = " + str(subtract(100, -30)))
-print("-25 - 29 = " + str(subtract(-25, 29)))
-print("-41 - -10 = " + str(subtract(-41, -10)))
+# test code
 
-print("9 * 3 = " + str(multiply(9, 3)))
-print("9 * -4 = " + str(multiply(9, -4)))
-print("-4 * 8 = " + str(multiply(-4, 8)))
-print("-12 * -9 = " + str(multiply(-12, -9)))
-
-print("100 / 2 = " + str(divide(100, 2)))
-print("75 / -3 = " + str(divide(75, -3)))
-print("-75 / 3 = " + str(divide(-75, 3)))
-print("7 / 3 = " + str(divide(7, 3)))
-print("0 / 0 = " + str(divide(0, 0)))
-
-
-print("5 ^ 3 = " + str(exponent(5, 3)))
-print("-5 ^ 3 = " + str(exponent(-5, 3)))
-print("-8 ^ 3 = " + str(exponent(-8, 3)))
-print("-1 ^ 1 = " + str(exponent(-1, 1)))
-print("1 ^ 1 = " + str(exponent(1, 1)))
-print("0 ^ 5 = " + str(exponent(0, 5)))
-print("5 ^ 0 = " + str(exponent(5, 0)))
-print("10 ^ -3 = " + str(exponent(10, -3)))
+# print("12 + 25 = " + str(add(12, 25)))
+# print("-30 + 100 = " + str(add(-30, 100)))
+#
+# print("100 - 30 = " + str(subtract(100, 30)))
+# print("100 - -30 = " + str(subtract(100, -30)))
+# print("-25 - 29 = " + str(subtract(-25, 29)))
+# print("-41 - -10 = " + str(subtract(-41, -10)))
+#
+# print("9 * 3 = " + str(multiply(9, 3)))
+# print("9 * -4 = " + str(multiply(9, -4)))
+# print("-4 * 8 = " + str(multiply(-4, 8)))
+# print("-12 * -9 = " + str(multiply(-12, -9)))
+#
+# print("100 / 2 = " + str(divide(100, 2)))
+# print("75 / -3 = " + str(divide(75, -3)))
+# print("-75 / 3 = " + str(divide(-75, 3)))
+# print("7 / 3 = " + str(divide(7, 3)))
+# print("0 / 0 = " + str(divide(0, 0)))
+#
+#
+# print("5 ^ 3 = " + str(exponent(5, 3)))
+# print("-5 ^ 3 = " + str(exponent(-5, 3)))
+# print("-8 ^ 3 = " + str(exponent(-8, 3)))
+# print("-1 ^ 1 = " + str(exponent(-1, 1)))
+# print("1 ^ 1 = " + str(exponent(1, 1)))
+# print("0 ^ 5 = " + str(exponent(0, 5)))
+# print("5 ^ 0 = " + str(exponent(5, 0)))
+# print("10 ^ -3 = " + str(exponent(10, -3)))
 
 
 # ------------------------------------
